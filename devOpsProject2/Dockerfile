@@ -11,11 +11,11 @@ FROM microsoft/dotnet:sdk AS build-env
 WORKDIR /app
 
 # copy csproj and restore as distinct layers
-#COPY *.csproj ./
+COPY * ./
 RUN dotnet restore
 
 # copy everything else and build
-#COPY . ./
+COPY . ./
 RUN dotnet publish -c Release -o out
 
 # build runtime image
