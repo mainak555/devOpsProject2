@@ -9,3 +9,14 @@ C:\Users\MC\Documents\Visual Studio 2017\Projects\devOpsProject2\devOpsProject2\
 C:\Users\MC\Documents\Visual Studio 2017\Projects\devOpsProject2\devOpsProject2\obj\Debug\netcoreapp2.0\devOpsProject2.AssemblyInfo.cs
 C:\Users\MC\Documents\Visual Studio 2017\Projects\devOpsProject2\devOpsProject2\obj\Debug\netcoreapp2.0\devOpsProject2.dll
 C:\Users\MC\Documents\Visual Studio 2017\Projects\devOpsProject2\devOpsProject2\obj\Debug\netcoreapp2.0\devOpsProject2.pdb
+C:\Users\MC\Documents\Visual Studio 2017\Projects\Git\mainak555\devOpsProject22\devOpsProject2\bin\Debug\netcoreapp2.0\devOpsProject2.deps.json
+C:\Users\MC\Documents\Visual Studio 2017\Projects\Git\mainak555\devOpsProject22\devOpsProject2\bin\Debug\netcoreapp2.0\devOpsProject2.runtimeconfig.json
+C:\Users\MC\Documents\Visual Studio 2017\Projects\Git\mainak555\devOpsProject22\devOpsProject2\bin\Debug\netcoreapp2.0\devOpsProject2.runtimeconfig.dev.json
+C:\Users\MC\Documents\Visual Studio 2017\Projects\Git\mainak555\devOpsProject22\devOpsProject2\bin\Debug\netcoreapp2.0\devOpsProject2.dll
+C:\Users\MC\Documents\Visual Studio 2017\Projects\Git\mainak555\devOpsProject22\devOpsProject2\bin\Debug\netcoreapp2.0\devOpsProject2.pdb
+C:\Users\MC\Documents\Visual Studio 2017\Projects\Git\mainak555\devOpsProject22\devOpsProject2\obj\Debug\netcoreapp2.0\devOpsProject2.csprojResolveAssemblyReference.cache
+C:\Users\MC\Documents\Visual Studio 2017\Projects\Git\mainak555\devOpsProject22\devOpsProject2\obj\Debug\netcoreapp2.0\devOpsProject2.csproj.CoreCompileInputs.cache
+C:\Users\MC\Documents\Visual Studio 2017\Projects\Git\mainak555\devOpsProject22\devOpsProject2\obj\Debug\netcoreapp2.0\devOpsProject2.AssemblyInfoInputs.cache
+C:\Users\MC\Documents\Visual Studio 2017\Projects\Git\mainak555\devOpsProject22\devOpsProject2\obj\Debug\netcoreapp2.0\devOpsProject2.AssemblyInfo.cs
+C:\Users\MC\Documents\Visual Studio 2017\Projects\Git\mainak555\devOpsProject22\devOpsProject2\obj\Debug\netcoreapp2.0\devOpsProject2.dll
+C:\Users\MC\Documents\Visual Studio 2017\Projects\Git\mainak555\devOpsProject22\devOpsProject2\obj\Debug\netcoreapp2.0\devOpsProject2.pdb
