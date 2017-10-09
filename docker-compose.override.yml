@@ -1,5 +1,4 @@
 version: '3'
-
 services:
   devopsproject2:
     environment:
