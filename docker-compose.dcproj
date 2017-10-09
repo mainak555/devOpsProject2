@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.0</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
-    <ProjectGuid>ad6d4f50-d34e-45bc-9391-313b0667c014</ProjectGuid>
+    <ProjectGuid>774068b6-63fe-48f5-be98-b289ec2c298d</ProjectGuid>
     <DockerLaunchBrowser>True</DockerLaunchBrowser>
     <DockerServiceUrl>http://localhost:{ServicePort}</DockerServiceUrl>
     <DockerServiceName>devopsproject2</DockerServiceName>
